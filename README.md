@@ -5,7 +5,7 @@ Assalamu Alaikum (السلام عليكم). In this repository, I showcase all t
 I used Android Studio for completing all the project.
 Download the android studio: https://developer.android.com/studio
 
-## Using sysyem: 
+## Using system: 
 Download the repository as a zip file then extract it. Now, just open the specific android folder in Android Studio.
 
 ## If you like my repository 
