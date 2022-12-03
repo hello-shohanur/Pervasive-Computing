@@ -3,8 +3,9 @@ Assalamu Alaikum (السلام عليكم). In this repository, I showcase all t
 
 # Input & Output
 I used Android Studio for completing all the project.
+Download the android studio: https://developer.android.com/studio
 
-# Using sysyem: 
+## Using sysyem: 
 Download the repository as a zip file then extract it. Now, just open the specific android folder in Android Studio.
 
 ## If you like my repository 
@@ -14,5 +15,5 @@ Don't forget to (Follow) and press the (Star) button. If you want to save this r
 https://github.com/shohan-cse?tab=repositories
 
 
-## Contact with me
+## Support (Feel free to contact for any project only)
 help.shohan@gmail.com
