@@ -1,4 +1,4 @@
-# Pervasive Computing
+# Pervasive Computing Lab 
 Assalamu Alaikum (السلام عليكم). In this repository, I showcase all the android lab projects that have already been done in lab class. There are two parts to all projects one is of Front-End and another one is of Back-End. In the Front-End part, XML code is used for designing the user interface part, and in the Back-End part, JAVA code has been used for controlling all the activity of the application.
 
 # Input & Output
