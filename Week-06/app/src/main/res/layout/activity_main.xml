@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="example.radiobutton.MainActivity">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center_horizontal"
+        android:textSize="22dp"
+        android:text="Single Radio Buttons" />
+
+
+    <RadioButton
+        android:id="@+id/radioButton1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text=" Pervasive Computing"
+        android:layout_marginTop="20dp"
+
+        android:textSize="20dp" />
+    <RadioButton
+        android:id="@+id/radioButton2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text=" Operating System"
+        android:layout_marginTop="10dp"
+
+        android:textSize="20dp" />
+
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="20dp"
+        android:background="#B8B894" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center_horizontal"
+        android:textSize="22dp"
+        android:text="Radio button inside RadioGroup" />
+
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioGroup">
+
+        <RadioButton
+            android:id="@+id/radioMale"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text=" Lab"
+            android:layout_marginTop="10dp"
+            android:checked="false"
+            android:textSize="20dp" />
+
+        <RadioButton
+            android:id="@+id/radioFemale"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text=" Theory"
+            android:layout_marginTop="20dp"
+            android:checked="false"
+
+            android:textSize="20dp" />
+    </RadioGroup>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show Selected"
+        android:id="@+id/button"
+        android:onClick="onclickbuttonMethod"
+        android:layout_gravity="center_horizontal" />
+
+
+</LinearLayout>
