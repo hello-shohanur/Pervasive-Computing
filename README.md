@@ -16,4 +16,4 @@ https://github.com/shohan-cse?tab=repositories
 
 
 ## Support (Feel free to contact for any project only)
-help.shohan@gmail.com
+info.shohan.cse@gmail.com
