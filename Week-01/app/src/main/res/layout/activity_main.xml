@@ -12,7 +12,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="SHOHAN"
+        android:text="Sperm Noman"
         android:layout_gravity="center"
         android:id="@+id/tv1"
         android:textSize="40sp"
